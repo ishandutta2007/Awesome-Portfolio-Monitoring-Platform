@@ -30,95 +30,32 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS/Hosted Platforms
 
-Juniper Square
-
-Private-markets fund operating platform supporting fundraising, investor management, fund administration, portfolio monitoring, accounting, and LP reporting.
-
-Allvue
-
-Investment management technology platform supporting portfolio management, fund accounting, reporting, structured products, credit, and alternative investments.
-
-Dynamo Software
-
-Alternative investment management platform supporting deal management, portfolio monitoring, investor relations, fund administration, and investment reporting.
-
-Backstop Solutions
-
-Cloud-based investment management platform providing portfolio, research, CRM, investor relations, and analytics capabilities for institutional investment organizations.
-
-Carta
-
-Equity and private-markets platform supporting cap table management, valuations, fund administration, portfolio monitoring, and investor operations.
-
-FIS Investran
-
-Institutional investment accounting and administration platform widely used for private equity, venture capital, real estate, and alternative investment funds.
-
-Visible.vc
-
-Portfolio monitoring and investor reporting platform focused on startup KPIs, portfolio company updates, data collection, and venture capital reporting workflows.
-
-Vestberry
-
-Private-market portfolio monitoring and reporting platform supporting investment analytics, valuations, portfolio KPIs, and fund performance analysis.
-
-Fundwave
-
-Private equity and venture capital fund administration platform covering portfolio monitoring, accounting, investor reporting, and fund operations.
-
-Altvia
-
-Salesforce-native private capital software platform supporting investor relations, fundraising, portfolio management, fund workflows, and LP communications.
-
-eFront
-
-Alternative investment management platform supporting private markets, portfolio management, valuations, risk analysis, accounting, and investor reporting.
-
-Chronograph
-
-Private equity portfolio analytics and monitoring platform focused on investment performance, fund metrics, portfolio company analysis, and reporting.
-
-Cobalt
-
-Investment data and portfolio reporting technology supporting alternative investment monitoring, fund administration, analytics, and institutional reporting.
-
-iLEVEL
-
-Portfolio monitoring and reporting technology focused on private capital managers, portfolio company data collection, performance monitoring, and investor reporting.
-
-DealCloud
-
-Financial-services relationship and deal management platform that can support investment pipeline tracking, portfolio intelligence, and relationship analytics.
-
-SatuitCRM
-
-CRM and investor relationship management platform for investment firms, asset managers, private equity organizations, and alternative investment managers.
-
-Affinity
-
-Relationship intelligence platform used by venture capital, private equity, and investment organizations for relationship management and investment workflows.
-
-FundCount
-
-Investment accounting and partnership accounting platform supporting complex fund structures, portfolio accounting, reporting, and family-office workflows.
-
-SS&C Advent
-
-Investment management and accounting technology covering portfolio accounting, performance measurement, reporting, and institutional investment operations.
-
-Enfusion
-
-Cloud-native investment management platform combining portfolio management, order management, risk, accounting, and investment operations.
-
-Addepar
-
-Investment portfolio management and reporting platform focused on complex wealth, multi-asset portfolios, data aggregation, and performance analytics.
-
-FIS Front Arena
-
-Capital markets platform supporting trading, portfolio risk, valuation, analytics, and investment operations.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **Juniper Square** | Private-markets fund operating platform supporting fundraising, investor management, fund administration, portfolio monitoring, accounting, and LP reporting. | Starts at ~$18,000/year (Sponsor tier base subscription; scales with AUM and fund administration add-ons) | No free tier; custom demo upon request |
+| **Allvue** | Investment management technology platform supporting portfolio management, fund accounting, reporting, structured products, credit, and alternative investments. | Custom enterprise quotes (entry implementations typically range from ~$25,000–$50,000+/year based on modules) | No free tier; demo available on request |
+| **Dynamo Software** | Alternative investment management platform supporting deal management, portfolio monitoring, investor relations, fund administration, and investment reporting. | Custom enterprise quotes (typically starts around ~$20,000–$35,000/year depending on user seats and modules) | No free tier; sales demo on request |
+| **Backstop Solutions** | Cloud-based investment management platform providing portfolio, research, CRM, investor relations, and analytics capabilities for institutional investment organizations. | Custom institutional pricing (typically starts at ~$15,000–$25,000/year based on activated modules and user count) | No free tier; customized product demo on request |
+| **Carta** | Equity and private-markets platform supporting cap table management, valuations, fund administration, portfolio monitoring, and investor operations. | Free tier available; paid plans start at ~$3,000/year (Build/Scale tiers scale with cap table stakeholder count) | **Carta Launch Plan**: 100% Free for early-stage companies up to $1M raised and up to 25 stakeholders/security holders |
+| **FIS Investran** | Institutional investment accounting and administration platform widely used for private equity, venture capital, real estate, and alternative investment funds. | Custom enterprise licensing (typically starting around ~$50,000–$100,000+/year based on fund structures and implementation) | No free tier; enterprise demonstration on request |
+| **Visible.vc** | Portfolio monitoring and investor reporting platform focused on startup KPIs, portfolio company updates, data collection, and venture capital reporting workflows. | Free tier available; paid plans start at $59/month ($708/year billed annually) for Base tier | **Starter Plan**: Free forever with up to 100 investor contacts, 2 pitch decks, 2 pipelines, and basic KPI dashboard |
+| **Vestberry** | Private-market portfolio monitoring and reporting platform supporting investment analytics, valuations, portfolio KPIs, and fund performance analysis. | Custom quote-based pricing (entry-level fund subscriptions typically start around €10,000–€15,000/year) | 14-day free trial available for qualified venture & PE funds upon evaluation request |
+| **Fundwave** | Private equity and venture capital fund administration platform covering portfolio monitoring, accounting, investor reporting, and fund operations. | Starts at $1,400/month (~$6,000 to $16,800/year depending on modules/AUM tier) | No permanent free tier; guided interactive demo available |
+| **Altvia** | Salesforce-native private capital software platform supporting investor relations, fundraising, portfolio management, fund workflows, and LP communications. | Custom pricing based on Salesforce user licenses (typically starting around ~$12,000–$24,000/year) | No free tier; tailored product demo upon request |
+| **eFront** | Alternative investment management platform supporting private markets, portfolio management, valuations, risk analysis, accounting, and investor reporting. | Custom enterprise quotes (institutional packages typically start at $50,000+/year) | No free tier; institutional demo upon request |
+| **Chronograph** | Private equity portfolio analytics and monitoring platform focused on investment performance, fund metrics, portfolio company analysis, and reporting. | Custom enterprise pricing (typically starting around $25,000–$50,000+/year based on portfolio company count) | No free tier; guided platform walkthrough on request |
+| **Cobalt** | Investment data and portfolio reporting technology supporting alternative investment monitoring, fund administration, analytics, and institutional reporting. | Custom enterprise licensing (typically starting at $20,000+/year) | No free tier; enterprise trial/demo by consultation |
+| **iLEVEL** | Portfolio monitoring and reporting technology focused on private capital managers, portfolio company data collection, performance monitoring, and investor reporting. | Custom institutional contracts (typically starting around £36,000 / ~$45,000+/year depending on asset scale) | No free tier; managed demo upon request |
+| **DealCloud** | Financial-services relationship and deal management platform that can support investment pipeline tracking, portfolio intelligence, and relationship analytics. | Custom enterprise quotes (starts around ~$85,000/year for institutional mid-market deployments) | No free tier; customized demo upon request |
+| **SatuitCRM** | CRM and investor relationship management platform for investment firms, asset managers, private equity organizations, and alternative investment managers. | Starts at $150/user per month ($1,800/user/year) for Satuit Essentials tier | No permanent free tier; trial/demo sandbox on request |
+| **Affinity** | Relationship intelligence platform used by venture capital, private equity, and investment organizations for relationship management and investment workflows. | Starts at ~$2,000/user per year (~$167/user/month billed annually) for Essential tier | No free tier; personalized demo on request |
+| **FundCount** | Investment accounting and partnership accounting platform supporting complex fund structures, portfolio accounting, reporting, and family-office workflows. | Starts at $4,000/year (HNW individual/1 user) or $14,450/year (Fund Admin Incubator tier) | No free tier; interactive demonstration upon request |
+| **SS&C Advent** | Investment management and accounting technology covering portfolio accounting, performance measurement, reporting, and institutional investment operations. | Custom enterprise quotes (Geneva / APX deployments typically start at $40,000–$75,000+/year) | No free tier; institutional demo upon request |
+| **Enfusion** | Cloud-native investment management platform combining portfolio management, order management, risk, accounting, and investment operations. | Custom SaaS pricing (institutional portfolio setups typically start at $30,000–$60,000+/year) | No free tier; live platform demo on request |
+| **Addepar** | Investment portfolio management and reporting platform focused on complex wealth, multi-asset portfolios, data aggregation, and performance analytics. | Custom enterprise pricing (scaled by AUM; typically starts around $30,000–$50,000/year base) | No free tier; custom demonstration upon request |
+| **FIS Front Arena** | Capital markets platform supporting trading, portfolio risk, valuation, analytics, and investment operations. | Custom enterprise licensing (institutional deployments typically starting at $100,000+/year) | No free tier; formal evaluation sandbox on request |
 
 Open-Source GitHub Projects
 
