@@ -1,280 +1,125 @@
-# Awesome-Portfolio-Monitoring-Platform
+<div align="center">
 
-Top Portfolio Monitoring Platform Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Portfolio-Monitoring-Platform">
+  <img src="assets/banner.svg" alt="Awesome Portfolio Monitoring Platform Banner" width="100%"/>
+</a>
 
-Curated List of SaaS Products & Open-Source GitHub Projects
-Focused on Private Equity, Venture Capital, Alternative Investments, Fund Performance, Portfolio KPIs, Investor Reporting & Investment Analytics
-Last updated: September 2026
+# 🚀 Awesome Portfolio Monitoring Platform 📊
 
-This repository tracks notable SaaS platforms and open-source projects for Portfolio Monitoring Platforms. These tools help investment firms, venture capital funds, private equity managers, family offices, asset managers, and fund administrators monitor portfolio companies and investments, collect KPIs, analyze performance, calculate fund metrics, manage valuations, and produce investor and LP reports.
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Portfolio-Monitoring-Platform?style=social)](https://github.com/ishandutta2007/Awesome-Portfolio-Monitoring-Platform/stargazers)
+[![Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Portfolio-Monitoring-Platform?style=social)](https://github.com/ishandutta2007/Awesome-Portfolio-Monitoring-Platform/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Portfolio-Monitoring-Platform/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Portfolio-Monitoring-Platform/graphs/commit-activity)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-Examples include Juniper Square, Allvue, Dynamo Software, Backstop Solutions, Carta, FIS Investran, Visible.vc, Vestberry, Fundwave, and Altvia (among the major commercial platforms).
+**Curated ecosystem of SaaS software, open-source analytics engines, fund performance calculators, and self-hosted tools for Venture Capital, Private Equity, Family Offices, and Investment Teams.**
 
-Open-source emphasis: This section is deliberately expanded with open-source portfolio monitoring applications, investment analytics platforms, fund-reporting systems, accounting engines, business intelligence tools, financial modeling frameworks, market-data systems, and self-hosted infrastructure. Complete open-source replacements for institutional private-market platforms remain relatively limited, but a strong ecosystem of modular projects can be combined to build transparent, self-hosted portfolio monitoring and reporting systems. 
-GitHub
-+2
-GitHub
-+2
+[🌟 Star on GitHub](https://github.com/ishandutta2007/Awesome-Portfolio-Monitoring-Platform) • [💬 Join Discord](https://discord.gg/jc4xtF58Ve) • [🤝 Contribute](#-how-to-contribute) • [📑 Table of Contents](#-table-of-contents)
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+</div>
 
-Table of Contents
+---
 
-SaaS/Hosted Platforms
+## 📖 Overview & Ecosystem Summary
 
-Open-Source GitHub Projects
+This repository is the definitive reference directory tracking leading **SaaS platforms** and **open-source tools** in the **Portfolio Monitoring Platform** ecosystem. These tools empower investment funds, venture capital firms, private equity managers, family offices, asset managers, and fund administrators to:
 
-Additional Strong Open-Source Options
+* 📊 **Monitor Portfolio Companies & Real-time KPIs**: Collect operational, financial, and product metrics seamlessly.
+* 📈 **Analyze Fund Performance & Metrics**: Compute IRR, MOIC, DPI, TVPI, RVPI, NAV, and historical drawdown analytics.
+* 💼 **Cap Table & Valuation Operations**: Track ownership, 409A valuations, waterfalls, and dilution models.
+* 📜 **LP Reporting & Investor Relations**: Generate institutional-grade investor updates, quarterly reports, and interactive investor portals.
+* ⚡ **Open-Source & Self-Hosted Financial Data Pipelines**: Build modular, privacy-first portfolio monitoring platforms with SQL, Python, double-entry accounting, and modern BI dashboards.
 
-How to Contribute
+---
 
-Disclaimer
+## 📑 Table of Contents
 
-## SaaS/Hosted Platforms
+* [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+* [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+* [🧩 Additional Modular Open-Source Components](#-additional-modular-open-source-components)
+* [📈 Star History](#-star-history)
+* [🤝 How to Contribute](#-how-to-contribute)
+* [⚖️ Disclaimer](#️-disclaimer)
 
-| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **Juniper Square** | Private-markets fund operating platform supporting fundraising, investor management, fund administration, portfolio monitoring, accounting, and LP reporting. | Starts at ~$18,000/year (Sponsor tier base subscription; scales with AUM and fund administration add-ons) | No free tier; custom demo upon request |
-| **Allvue** | Investment management technology platform supporting portfolio management, fund accounting, reporting, structured products, credit, and alternative investments. | Custom enterprise quotes (entry implementations typically range from ~$25,000–$50,000+/year based on modules) | No free tier; demo available on request |
-| **Dynamo Software** | Alternative investment management platform supporting deal management, portfolio monitoring, investor relations, fund administration, and investment reporting. | Custom enterprise quotes (typically starts around ~$20,000–$35,000/year depending on user seats and modules) | No free tier; sales demo on request |
-| **Backstop Solutions** | Cloud-based investment management platform providing portfolio, research, CRM, investor relations, and analytics capabilities for institutional investment organizations. | Custom institutional pricing (typically starts at ~$15,000–$25,000/year based on activated modules and user count) | No free tier; customized product demo on request |
-| **Carta** | Equity and private-markets platform supporting cap table management, valuations, fund administration, portfolio monitoring, and investor operations. | Free tier available; paid plans start at ~$3,000/year (Build/Scale tiers scale with cap table stakeholder count) | **Carta Launch Plan**: 100% Free for early-stage companies up to $1M raised and up to 25 stakeholders/security holders |
-| **FIS Investran** | Institutional investment accounting and administration platform widely used for private equity, venture capital, real estate, and alternative investment funds. | Custom enterprise licensing (typically starting around ~$50,000–$100,000+/year based on fund structures and implementation) | No free tier; enterprise demonstration on request |
-| **Visible.vc** | Portfolio monitoring and investor reporting platform focused on startup KPIs, portfolio company updates, data collection, and venture capital reporting workflows. | Free tier available; paid plans start at $59/month ($708/year billed annually) for Base tier | **Starter Plan**: Free forever with up to 100 investor contacts, 2 pitch decks, 2 pipelines, and basic KPI dashboard |
-| **Vestberry** | Private-market portfolio monitoring and reporting platform supporting investment analytics, valuations, portfolio KPIs, and fund performance analysis. | Custom quote-based pricing (entry-level fund subscriptions typically start around €10,000–€15,000/year) | 14-day free trial available for qualified venture & PE funds upon evaluation request |
-| **Fundwave** | Private equity and venture capital fund administration platform covering portfolio monitoring, accounting, investor reporting, and fund operations. | Starts at $1,400/month (~$6,000 to $16,800/year depending on modules/AUM tier) | No permanent free tier; guided interactive demo available |
-| **Altvia** | Salesforce-native private capital software platform supporting investor relations, fundraising, portfolio management, fund workflows, and LP communications. | Custom pricing based on Salesforce user licenses (typically starting around ~$12,000–$24,000/year) | No free tier; tailored product demo upon request |
-| **eFront** | Alternative investment management platform supporting private markets, portfolio management, valuations, risk analysis, accounting, and investor reporting. | Custom enterprise quotes (institutional packages typically start at $50,000+/year) | No free tier; institutional demo upon request |
-| **Chronograph** | Private equity portfolio analytics and monitoring platform focused on investment performance, fund metrics, portfolio company analysis, and reporting. | Custom enterprise pricing (typically starting around $25,000–$50,000+/year based on portfolio company count) | No free tier; guided platform walkthrough on request |
-| **Cobalt** | Investment data and portfolio reporting technology supporting alternative investment monitoring, fund administration, analytics, and institutional reporting. | Custom enterprise licensing (typically starting at $20,000+/year) | No free tier; enterprise trial/demo by consultation |
-| **iLEVEL** | Portfolio monitoring and reporting technology focused on private capital managers, portfolio company data collection, performance monitoring, and investor reporting. | Custom institutional contracts (typically starting around £36,000 / ~$45,000+/year depending on asset scale) | No free tier; managed demo upon request |
-| **DealCloud** | Financial-services relationship and deal management platform that can support investment pipeline tracking, portfolio intelligence, and relationship analytics. | Custom enterprise quotes (starts around ~$85,000/year for institutional mid-market deployments) | No free tier; customized demo upon request |
-| **SatuitCRM** | CRM and investor relationship management platform for investment firms, asset managers, private equity organizations, and alternative investment managers. | Starts at $150/user per month ($1,800/user/year) for Satuit Essentials tier | No permanent free tier; trial/demo sandbox on request |
-| **Affinity** | Relationship intelligence platform used by venture capital, private equity, and investment organizations for relationship management and investment workflows. | Starts at ~$2,000/user per year (~$167/user/month billed annually) for Essential tier | No free tier; personalized demo on request |
-| **FundCount** | Investment accounting and partnership accounting platform supporting complex fund structures, portfolio accounting, reporting, and family-office workflows. | Starts at $4,000/year (HNW individual/1 user) or $14,450/year (Fund Admin Incubator tier) | No free tier; interactive demonstration upon request |
-| **SS&C Advent** | Investment management and accounting technology covering portfolio accounting, performance measurement, reporting, and institutional investment operations. | Custom enterprise quotes (Geneva / APX deployments typically start at $40,000–$75,000+/year) | No free tier; institutional demo upon request |
-| **Enfusion** | Cloud-native investment management platform combining portfolio management, order management, risk, accounting, and investment operations. | Custom SaaS pricing (institutional portfolio setups typically start at $30,000–$60,000+/year) | No free tier; live platform demo on request |
-| **Addepar** | Investment portfolio management and reporting platform focused on complex wealth, multi-asset portfolios, data aggregation, and performance analytics. | Custom enterprise pricing (scaled by AUM; typically starts around $30,000–$50,000/year base) | No free tier; custom demonstration upon request |
-| **FIS Front Arena** | Capital markets platform supporting trading, portfolio risk, valuation, analytics, and investment operations. | Custom enterprise licensing (institutional deployments typically starting at $100,000+/year) | No free tier; formal evaluation sandbox on request |
+---
 
-Open-Source GitHub Projects
+## 🏢 SaaS & Hosted Commercial Platforms
 
-Hemrock Reporting
+> 💡 **Market Overview & Structure**: The global alternative investment management and portfolio monitoring software market is estimated at **$4.5B–$6.0B** (projected to reach **$10B+ by 2030** at ~12% CAGR). The sector is **moderately fragmented**: institutional accounting and administration remain dominated by incumbent titans (*FIS*, *SS&C*), while middle-office portfolio monitoring, dealflow CRM, and VC/growth KPI analytics exhibit vibrant competition with category leaders (*Carta*, *Addepar*, *Juniper Square*, *DealCloud*) capturing specialized segments alongside nimble modern platforms (*Visible.vc*, *Vestberry*, *Fundwave*).
 
-Open-source, self-hosted venture capital investor reporting and portfolio monitoring platform supporting portfolio KPI collection, fund performance reporting, LP reporting, investment tracking, and portfolio analysis. It is designed specifically around fund-manager workflows and is licensed under Apache 2.0. 
-GitHub
-+1
+| Platform | Valuation / Revenue Scale (Desc) | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **FIS Investran** | **~$14.5B Revenue** (FIS Global parent, ~$45B+ Market Cap) | Institutional investment accounting and administration platform widely used for private equity, venture capital, real estate, and alternative investment funds. | Custom enterprise licensing (typically starting around ~$50,000–$100,000+/year based on fund structures and implementation) | No free tier; enterprise demonstration on request |
+| **FIS Front Arena** | **~$14.5B Revenue** (FIS Global parent, ~$45B+ Market Cap) | Capital markets platform supporting trading, portfolio risk, valuation, analytics, and investment operations. | Custom enterprise licensing (institutional deployments typically starting at $100,000+/year) | No free tier; formal evaluation sandbox on request |
+| **SS&C Advent** | **~$5.5B Revenue** (SS&C Technologies, ~$18B Market Cap) | Investment management and accounting technology covering portfolio accounting, performance measurement, reporting, and institutional investment operations. | Custom enterprise quotes (Geneva / APX deployments typically start at $40,000–$75,000+/year) | No free tier; institutional demo upon request |
+| **Carta** | **~$7.4B Valuation** (~$350M+ ARR) | Equity and private-markets platform supporting cap table management, valuations, fund administration, portfolio monitoring, and investor operations. | Free tier available; paid plans start at ~$3,000/year (Build/Scale tiers scale with cap table stakeholder count) | **Carta Launch Plan**: 100% Free for early-stage companies up to $1M raised and up to 25 stakeholders/security holders |
+| **DealCloud** | **~$3.0B Valuation** (Intapp subsidiary, ~$3.5B Market Cap, ~$450M Rev) | Financial-services relationship and deal management platform that can support investment pipeline tracking, portfolio intelligence, and relationship analytics. | Custom enterprise quotes (starts around ~$85,000/year for institutional mid-market deployments) | No free tier; customized demo upon request |
+| **Addepar** | **~$2.17B Valuation** (~$170M+ ARR, $5T+ assets tracked) | Investment portfolio management and reporting platform focused on complex wealth, multi-asset portfolios, data aggregation, and performance analytics. | Custom enterprise pricing (scaled by AUM; typically starts around $30,000–$50,000/year base) | No free tier; custom demonstration upon request |
+| **eFront** | **~$1.43B Valuation** (Acquired by BlackRock / Aladdin) | Alternative investment management platform supporting private markets, portfolio management, valuations, risk analysis, accounting, and investor reporting. | Custom enterprise quotes (institutional packages typically start at $50,000+/year) | No free tier; institutional demo upon request |
+| **Juniper Square** | **~$1.2B Valuation** (~$75M+ ARR, $1T+ equity managed) | Private-markets fund operating platform supporting fundraising, investor management, fund administration, portfolio monitoring, accounting, and LP reporting. | Starts at ~$18,000/year (Sponsor tier base subscription; scales with AUM and fund administration add-ons) | No free tier; custom demo upon request |
+| **Enfusion** | **~$850M Market Cap** (~$180M Revenue) | Cloud-native investment management platform combining portfolio management, order management, risk, accounting, and investment operations. | Custom SaaS pricing (institutional portfolio setups typically start at $30,000–$60,000+/year) | No free tier; live platform demo on request |
+| **Allvue** | **~$800M+ Valuation** (Vista Equity Partners backing) | Investment management technology platform supporting portfolio management, fund accounting, reporting, structured products, credit, and alternative investments. | Custom enterprise quotes (entry implementations typically range from ~$25,000–$50,000+/year based on modules) | No free tier; demo available on request |
+| **Affinity** | **~$600M Valuation** (~$40M+ ARR) | Relationship intelligence platform used by venture capital, private equity, and investment organizations for relationship management and investment workflows. | Starts at ~$2,000/user per year (~$167/user/month billed annually) for Essential tier | No free tier; personalized demo on request |
+| **Dynamo Software** | **~$350M+ Valuation** (Francisco Partners backing) | Alternative investment management platform supporting deal management, portfolio monitoring, investor relations, fund administration, and investment reporting. | Custom enterprise quotes (typically starts around ~$20,000–$35,000/year depending on user seats and modules) | No free tier; sales demo on request |
+| **Backstop Solutions** | **~$200M+ Valuation** (ION Group subsidiary) | Cloud-based investment management platform providing portfolio, research, CRM, investor relations, and analytics capabilities for institutional investment organizations. | Custom institutional pricing (typically starts at ~$15,000–$25,000/year based on activated modules and user count) | No free tier; customized product demo on request |
+| **iLEVEL** | **~$150M+ Valuation** (S&P Global Capital IQ Solutions) | Portfolio monitoring and reporting technology focused on private capital managers, portfolio company data collection, performance monitoring, and investor reporting. | Custom institutional contracts (typically starting around £36,000 / ~$45,000+/year depending on asset scale) | No free tier; managed demo upon request |
+| **Altvia** | **~$100M+ Valuation** (~$20M ARR, Bow River Capital backing) | Salesforce-native private capital software platform supporting investor relations, fundraising, portfolio management, fund workflows, and LP communications. | Custom pricing based on Salesforce user licenses (typically starting around ~$12,000–$24,000/year) | No free tier; tailored product demo upon request |
+| **Chronograph** | **~$80M+ Valuation** (Carlyle & Nasdaq Ventures backing) | Private equity portfolio analytics and monitoring platform focused on investment performance, fund metrics, portfolio company analysis, and reporting. | Custom enterprise pricing (typically starting around $25,000–$50,000+/year based on portfolio company count) | No free tier; guided platform walkthrough on request |
+| **Cobalt** | **~$60M+ Valuation** (FactSet portfolio solution) | Investment data and portfolio reporting technology supporting alternative investment monitoring, fund administration, analytics, and institutional reporting. | Custom enterprise licensing (typically starting at $20,000+/year) | No free tier; enterprise trial/demo by consultation |
+| **FundCount** | **~$35M+ Valuation** (Bootstrap / Profitable growth) | Investment accounting and partnership accounting platform supporting complex fund structures, portfolio accounting, reporting, and family-office workflows. | Starts at $4,000/year (HNW individual/1 user) or $14,450/year (Fund Admin Incubator tier) | No free tier; interactive demonstration upon request |
+| **Vestberry** | **~$25M Valuation** (~$4M ARR) | Private-market portfolio monitoring and reporting platform supporting investment analytics, valuations, portfolio KPIs, and fund performance analysis. | Custom quote-based pricing (entry-level fund subscriptions typically start around €10,000–€15,000/year) | 14-day free trial available for qualified venture & PE funds upon evaluation request |
+| **Visible.vc** | **~$20M Valuation** (~$3.5M ARR) | Portfolio monitoring and investor reporting platform focused on startup KPIs, portfolio company updates, data collection, and venture capital reporting workflows. | Free tier available; paid plans start at $59/month ($708/year billed annually) for Base tier | **Starter Plan**: Free forever with up to 100 investor contacts, 2 pitch decks, 2 pipelines, and basic KPI dashboard |
+| **SatuitCRM** | **~$15M Valuation** (Tier1 Financial Solutions subsidiary) | CRM and investor relationship management platform for investment firms, asset managers, private equity organizations, and alternative investment managers. | Starts at $150/user per month ($1,800/user/year) for Satuit Essentials tier | No permanent free tier; trial/demo sandbox on request |
+| **Fundwave** | **~$10M Valuation** (~$2M ARR) | Private equity and venture capital fund administration platform covering portfolio monitoring, accounting, investor reporting, and fund operations. | Starts at $1,400/month (~$6,000 to $16,800/year depending on modules/AUM tier) | No permanent free tier; guided interactive demo available |
 
-Portfolio Manager
+---
 
-Open-source portfolio management and analysis platform with transaction tracking, benchmark comparison, risk analysis, portfolio allocation, performance metrics, drawdown analysis, and efficient-frontier visualization. 
-GitHub
+## 💻 Open-Source GitHub Projects
 
-OpenPortfolio
+An expanding ecosystem of production-grade open-source applications, quantitative analytics libraries, self-hosted dashboards, and double-entry accounting engines for building custom portfolio monitoring infrastructure. Repositories are ranked by community GitHub stars.
 
-Open-source, self-hosted portfolio tracker designed to aggregate brokerage, pension, wallet, and bank accounts into a unified portfolio and net-worth view. 
-GitHub
+### 🔹 [Grafana](https://github.com/grafana/grafana) [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)\n\nOpen-source analytics and interactive visualization platform for real-time portfolio KPI monitoring, time-series metrics, and operational performance dashboards.\n\n### 🔹 [Apache Superset](https://github.com/apache/superset) [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)\n\nModern enterprise-ready business intelligence web application ideal for building portfolio company KPI dashboards, investment metrics, and LP reports.\n\n### 🔹 [PostHog](https://github.com/PostHog/posthog) [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)\n\nOpen-source product analytics suite widely deployed across venture-backed portfolio companies for tracking product KPIs, retention, and growth metrics.\n\n### 🔹 [Metabase](https://github.com/metabase/metabase) [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)\n\nEasy-to-use open-source business intelligence and visualization tool for creating self-hosted portfolio analytics dashboards, KPI queries, and alerts.\n\n### 🔹 [Apache Airflow](https://github.com/apache/airflow) [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)\n\nPlatform to programmatically author, schedule, and monitor workflows, ideal for automating periodic portfolio data extraction, KPI collection, and report generation.\n\n### 🔹 [Maybe](https://github.com/maybe-finance/maybe) [![GitHub stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers)\n\nOpen-source personal finance and wealth management platform for tracking investments, net worth, assets, and future financial planning.\n\n### 🔹 [OpenBB Platform](https://github.com/OpenBB-finance/OpenBB) [![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social&color=white)](https://github.com/OpenBB-finance/OpenBB/stargazers)\n\nOpen-source financial data and analytics platform for custom portfolio monitoring, market research, equity valuation, risk management, and quantitative workflows.\n\n### 🔹 [ClickHouse](https://github.com/ClickHouse/ClickHouse) [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers)\n\nFast open-source column-oriented database management system for real-time analytical reporting, tick data, time-series KPIs, and large portfolio logs.\n\n### 🔹 [DuckDB](https://github.com/duckdb/duckdb) [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers)\n\nHigh-performance in-process analytical database engine optimized for complex analytical queries on financial datasets, portfolio telemetry, and Parquet data.\n\n### 🔹 [Airbyte](https://github.com/airbytehq/airbyte) [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers)\n\nLeading open-source data integration platform with 300+ connectors to sync financial APIs, CRM records, and portfolio company databases into unified data stores.\n\n### 🔹 [Ghostfolio](https://github.com/ghostfolio/ghostfolio) [![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers)\n\nOpen-source wealth management platform to track stocks, ETFs, and crypto across multiple accounts with automated portfolio breakdown and privacy-first design.\n\n### 🔹 [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)\n\nOpen-source ERP system customizable for investment operations, portfolio company KPI collection, SPV workflows, fund accounting, and multi-entity books.\n\n### 🔹 [Yahoo Finance (yfinance)](https://github.com/ranaroussi/yfinance) [![GitHub stars](https://img.shields.io/github/stars/ranaroussi/yfinance?style=social&color=white)](https://github.com/ranaroussi/yfinance/stargazers)\n\nWidely-used Python library to download historical market data, company financials, and valuation metrics for portfolio analysis.\n\n### 🔹 [Prefect](https://github.com/PrefectHQ/prefect) [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers)\n\nWorkflow orchestration engine designed to build, observe, and react to data pipelines for portfolio KPI aggregation, valuation pipelines, and LP notifications.\n\n### 🔹 [Cube.js](https://github.com/cube-js/cube) [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers)\n\nOpen-source universal semantic layer and data modeling engine for building governed portfolio KPI metrics, data APIs, and embedded reporting.\n\n### 🔹 [QuantConnect LEAN](https://github.com/QuantConnect/Lean) [![GitHub stars](https://img.shields.io/github/stars/QuantConnect/Lean?style=social&color=white)](https://github.com/QuantConnect/Lean/stargazers)\n\nOpen-source algorithmic trading and quantitative research engine supporting portfolio construction, historical simulation, market data processing, and risk management.\n\n### 🔹 [Backtrader](https://github.com/mementum/backtrader) [![GitHub stars](https://img.shields.io/github/stars/mementum/backtrader?style=social&color=white)](https://github.com/mementum/backtrader/stargazers)\n\nFeature-rich Python framework for algorithmic trading, backtesting, portfolio strategy simulation, and visual performance reporting.\n\n### 🔹 [dbt-core](https://github.com/dbt-labs/dbt-core) [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers)\n\nOpen-source data transformation workflow tool enabling data analysts to build clean, tested data models for fund and portfolio intelligence.\n\n### 🔹 [Actual Budget](https://github.com/actualbudget/actual) [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers)\n\nPrivacy-focused, self-hosted double-entry budgeting application with synchronization and local-first architecture for cash and account tracking.\n\n### 🔹 [Dagster](https://github.com/dagster-io/dagster) [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers)\n\nCloud-native data orchestrator for machine learning, analytics, and data engineering pipelines across investment systems and KPI telemetry.\n\n### 🔹 [Wallos](https://github.com/ollm/Wallos) [![GitHub stars](https://img.shields.io/github/stars/ollm/Wallos?style=social&color=white)](https://github.com/ollm/Wallos/stargazers)\n\nOpen-source, self-hosted personal finance and expense tracker for monitoring subscription costs, financial health, recurring payments, and cash burn.\n\n### 🔹 [Datasette](https://github.com/simonw/datasette) [![GitHub stars](https://img.shields.io/github/stars/simonw/datasette?style=social&color=white)](https://github.com/simonw/datasette/stargazers)\n\nMulti-tool for exploring and publishing structured data, perfect for creating lightweight, searchable portfolio datasets, fund holdings, and LP dashboards.\n\n### 🔹 [Evidence](https://github.com/evidence-dev/evidence) [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers)\n\nCode-based business intelligence framework for generating interactive, markdown-driven portfolio reports, LP updates, and investment dashboards using SQL.\n\n### 🔹 [Lightdash](https://github.com/lightdash/lightdash) [![GitHub stars](https://img.shields.io/github/stars/lightdash/lightdash?style=social&color=white)](https://github.com/lightdash/lightdash/stargazers)\n\nOpen-source BI tool built natively on dbt, enabling governed portfolio metrics, automated KPI self-service, and collaborative investor dashboards.\n\n### 🔹 [Portfolio Performance](https://github.com/portfolio-performance/portfolio) [![GitHub stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=social&color=white)](https://github.com/portfolio-performance/portfolio/stargazers)\n\nPopular open-source investment portfolio management desktop application supporting securities tracking, asset allocation, performance measurement, return calculations, and portfolio analysis.\n\n### 🔹 [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt) [![GitHub stars](https://img.shields.io/github/stars/robertmartin8/PyPortfolioOpt?style=social&color=white)](https://github.com/robertmartin8/PyPortfolioOpt/stargazers)\n\nFinancial portfolio optimization in Python, including classical Efficient Frontier, Black-Litterman allocation, Hierarchical Risk Parity (HRP), and shrinkage covariance.\n\n### 🔹 [Fava](https://github.com/beancount/fava) [![GitHub stars](https://img.shields.io/github/stars/beancount/fava?style=social&color=white)](https://github.com/beancount/fava/stargazers)\n\nWeb interface for Beancount providing interactive financial reports, investment dashboards, balance sheets, and visual transaction analytics.\n\n### 🔹 [QuantStats](https://github.com/ranaroussi/quantstats) [![GitHub stars](https://img.shields.io/github/stars/ranaroussi/quantstats?style=social&color=white)](https://github.com/ranaroussi/quantstats/stargazers)\n\nPortfolio performance analytics library generating comprehensive tear sheets, return distributions, drawdown curves, Sharpe/Sortino ratios, and benchmark comparisons.\n\n### 🔹 [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) [![GitHub stars](https://img.shields.io/github/stars/dcajasn/Riskfolio-Lib?style=social&color=white)](https://github.com/dcajasn/Riskfolio-Lib/stargazers)\n\nComprehensive quantitative portfolio optimization and risk management library supporting 24+ risk measures, combinatorial purged cross-validation, and asset allocation.\n\n### 🔹 [vectorbt](https://github.com/polakowo/vectorbt) [![GitHub stars](https://img.shields.io/github/stars/polakowo/vectorbt?style=social&color=white)](https://github.com/polakowo/vectorbt/stargazers)\n\nHigh-performance vectorized quantitative analysis and backtesting framework built with NumPy and Numba for portfolio simulations and time-series analysis.\n\n### 🔹 [Meltano](https://github.com/meltano/meltano) [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers)\n\nOpen-source ELT data integration and pipeline platform based on the Singer specification for consolidating portfolio company telemetry.\n\n### 🔹 [Beancount](https://github.com/beancount/beancount) [![GitHub stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)\n\nCommand-line, double-entry bookkeeping computer language that allows tracking financial transactions, investment ledgers, NAV, and capital accounts in plain text.\n\n### 🔹 [GnuCash](https://github.com/Gnucash/gnucash) [![GitHub stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)\n\nFree, open-source personal and small-business accounting application featuring stock/bond/mutual fund investment tracking, reconciliation, and financial reports.\n\n### 🔹 [Ledger](https://github.com/ledger/ledger) [![GitHub stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)\n\nPowerful, double-entry command-line accounting system for tracking investments, capital accounts, cash flows, and fund-level portfolio ledgers.\n\n### 🔹 [hledger](https://github.com/simonmichael/hledger) [![GitHub stars](https://img.shields.io/github/stars/simonmichael/hledger?style=social&color=white)](https://github.com/simonmichael/hledger/stargazers)\n\nRobust, fast, cross-platform double-entry accounting software with CLI, TUI, and web interfaces for tracking investment portfolios, capital accounts, and expenses.\n\n### 🔹 [bt](https://github.com/pmorissette/bt) [![GitHub stars](https://img.shields.io/github/stars/pmorissette/bt?style=social&color=white)](https://github.com/pmorissette/bt/stargazers)\n\nFlexible Python framework for portfolio strategy backtesting, rebalancing simulation, and quantitative investment analytics.\n\n### 🔹 [Zipline Reloaded](https://github.com/stefan-jansen/zipline-reloaded) [![GitHub stars](https://img.shields.io/github/stars/stefan-jansen/zipline-reloaded?style=social&color=white)](https://github.com/stefan-jansen/zipline-reloaded/stargazers)\n\nProduction-grade algorithmic trading and portfolio backtesting framework powering quantitative portfolio research and event-driven simulations.\n\n### 🔹 [PyFolio Reloaded](https://github.com/stefan-jansen/pyfolio-reloaded) [![GitHub stars](https://img.shields.io/github/stars/stefan-jansen/pyfolio-reloaded?style=social&color=white)](https://github.com/stefan-jansen/pyfolio-reloaded/stargazers)\n\nOpen-source financial portfolio and risk analytics toolkit providing performance tear sheets, returns analysis, factor exposures, and Bayesian performance analysis.\n\n### 🔹 [QSTrader](https://github.com/mhallsmoore/qstrader) [![GitHub stars](https://img.shields.io/github/stars/mhallsmoore/qstrader?style=social&color=white)](https://github.com/mhallsmoore/qstrader/stargazers)\n\nOpen-source Python quantitative trading and portfolio simulation framework for backtesting portfolio allocation and investment strategies.\n\n### 🔹 [Hemrock Reporting](https://github.com/hemrock/reporting) [![GitHub stars](https://img.shields.io/github/stars/hemrock/reporting?style=social&color=white)](https://github.com/hemrock/reporting/stargazers)\n\nOpen-source, self-hosted venture capital investor reporting and portfolio monitoring platform supporting portfolio KPI collection, fund performance reporting, LP reporting, investment tracking, and portfolio analysis. Licensed under Apache 2.0.\n\n### 🔹 [OpenPortfolio](https://github.com/m-p-p-e/openportfolio) [![GitHub stars](https://img.shields.io/github/stars/m-p-p-e/openportfolio?style=social&color=white)](https://github.com/m-p-p-e/openportfolio/stargazers)\n\nOpen-source, self-hosted portfolio tracker designed to aggregate brokerage, pension, wallet, and bank accounts into a unified portfolio and net-worth view.\n\n### 🔹 [Portfolio Tracker](https://github.com/ndrwhr/portfolio) [![GitHub stars](https://img.shields.io/github/stars/ndrwhr/portfolio?style=social&color=white)](https://github.com/ndrwhr/portfolio/stargazers)\n\nSelf-hosted portfolio tracker using transaction-based accounting, supporting holdings, allocation, performance, benchmark comparisons, contribution analysis, and rebalancing guidance.\n\n### 🔹 [Serverless Investment Portfolio](https://github.com/jmagnusson/serverless-investment-portfolio) [![GitHub stars](https://img.shields.io/github/stars/jmagnusson/serverless-investment-portfolio?style=social&color=white)](https://github.com/jmagnusson/serverless-investment-portfolio/stargazers)\n\nOpen-source portfolio monitoring architecture combining Beancount accounting, Datasette dashboards, Python automation, GitHub Actions, and serverless infrastructure.\n\n### 🔹 [LibreFolio](https://github.com/librefolio/librefolio) [![GitHub stars](https://img.shields.io/github/stars/librefolio/librefolio?style=social&color=white)](https://github.com/librefolio/librefolio/stargazers)\n\nOpen-source portfolio tracking and investment analytics platform designed to consolidate investments into a unified dashboard with self-hosted deployment options.\n\n### 🔹 [Portfolio Manager](https://github.com/portfoliomanager/portfolio-manager) [![GitHub stars](https://img.shields.io/github/stars/portfoliomanager/portfolio-manager?style=social&color=white)](https://github.com/portfoliomanager/portfolio-manager/stargazers)\n\nOpen-source portfolio management and analysis platform with transaction tracking, benchmark comparison, risk analysis, portfolio allocation, performance metrics, and drawdown analysis.\n\n### 🔹 [OpenFolio](https://github.com/openfolio/openfolio) [![GitHub stars](https://img.shields.io/github/stars/openfolio/openfolio?style=social&color=white)](https://github.com/openfolio/openfolio/stargazers)\n\nSelf-hosted open-source portfolio management platform supporting multiple asset classes, broker-independent portfolio tracking, allocation analysis, ETF look-through, and programmable APIs.\n\n### 🔹 [Portfolio Analytics Platform](https://github.com/cloud-native-garage-method-cohort/portfolio-analytics-service) [![GitHub stars](https://img.shields.io/github/stars/cloud-native-garage-method-cohort/portfolio-analytics-service?style=social&color=white)](https://github.com/cloud-native-garage-method-cohort/portfolio-analytics-service/stargazers)\n\nOpen-source investment analytics application providing an interactive dashboard and REST API for portfolio performance, P&L, risk metrics, and drawdown analysis.\n\n### 🔹 [Finnhub Python SDK](https://github.com/Finnhub-Stock-API/finnhub-python) [![GitHub stars](https://img.shields.io/github/stars/Finnhub-Stock-API/finnhub-python?style=social&color=white)](https://github.com/Finnhub-Stock-API/finnhub-python/stargazers)\n\nPython client library for Finnhub real-time financial market data, earnings, institutional holdings, and financial statements.\n
 
-Portfolio Analytics Platform
+---
 
-Open-source investment analytics application providing an interactive dashboard and REST API for portfolio performance, P&L, risk metrics, drawdown analysis, benchmark comparison, and multi-market tracking. 
-GitHub
+## 🧩 Additional Modular Open-Source Components
 
-OpenFolio
+* 📐 **Portfolio Optimization**: [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt), [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib), [CVXPY](https://github.com/cvxpy/cvxpy), [Pyomo](https://github.com/Pyomo/pyomo), [SciPy Optimize](https://github.com/scipy/scipy), and [Google OR-Tools](https://github.com/google/or-tools) for mean-variance, Black-Litterman, HRP, and risk-budgeted allocations.
+* 🧪 **Quantitative Research & Backtesting**: [QuantConnect LEAN](https://github.com/QuantConnect/Lean), [Backtrader](https://github.com/mementum/backtrader), [vectorbt](https://github.com/polakowo/vectorbt), [Zipline Reloaded](https://github.com/stefan-jansen/zipline-reloaded), [QSTrader](https://github.com/mhallsmoore/qstrader), and [bt](https://github.com/pmorissette/bt).
+* 📊 **Portfolio Performance Analytics**: [QuantStats](https://github.com/ranaroussi/quantstats), [PyFolio Reloaded](https://github.com/stefan-jansen/pyfolio-reloaded), [Portfolio Performance](https://github.com/portfolio-performance/portfolio), and [Fava](https://github.com/beancount/fava).
+* 📒 **Transparent Investment Accounting**: [Beancount](https://github.com/beancount/beancount), [Fava](https://github.com/beancount/fava), [Ledger](https://github.com/ledger/ledger), [hledger](https://github.com/simonmichael/hledger), and [GnuCash](https://github.com/Gnucash/gnucash) for plain-text immutable ledgers, capital calls, distributions, and NAV tracking.
+* 📈 **Portfolio Company KPI Dashboards**: [Apache Superset](https://github.com/apache/superset), [Metabase](https://github.com/metabase/metabase), [Grafana](https://github.com/grafana/grafana), [PostHog](https://github.com/PostHog/posthog), [Lightdash](https://github.com/lightdash/lightdash), [Evidence](https://github.com/evidence-dev/evidence), and [Datasette](https://github.com/simonw/datasette).
+* 🗄️ **Data Infrastructure & Analytical Databases**: [PostgreSQL](https://github.com/postgres/postgres), [DuckDB](https://github.com/duckdb/duckdb), [ClickHouse](https://github.com/ClickHouse/ClickHouse), [Cube.js](https://github.com/cube-js/cube), and [TimescaleDB](https://github.com/timescale/timescaledb).
+* 🔄 **Data Integration & ETL/ELT Automation**: [Airbyte](https://github.com/airbytehq/airbyte), [Meltano](https://github.com/meltano/meltano), [Apache Airflow](https://github.com/apache/airflow), [Dagster](https://github.com/dagster-io/dagster), [Prefect](https://github.com/PrefectHQ/prefect), and [dbt-core](https://github.com/dbt-labs/dbt-core).
+* 🤖 **Machine Learning & Forecasting**: [scikit-learn](https://github.com/scikit-learn/scikit-learn), [XGBoost](https://github.com/dmlc/xgboost), [LightGBM](https://github.com/microsoft/LightGBM), [StatsForecast](https://github.com/Nixtla/statsforecast), [NeuralForecast](https://github.com/Nixtla/neuralforecast), [Darts](https://github.com/unit8co/darts), and [PyMC](https://github.com/pymc-devs/pymc).
+* 🏗️ **Custom Architecture Blueprint**: Combine [Hemrock Reporting](https://github.com/hemrock/reporting) with a [DuckDB](https://github.com/duckdb/duckdb) / [PostgreSQL](https://github.com/postgres/postgres) data warehouse, automate telemetry ingestion via [Airbyte](https://github.com/airbytehq/airbyte) or [Prefect](https://github.com/PrefectHQ/prefect), perform modeling via [dbt](https://github.com/dbt-labs/dbt-core), and visualize interactive reports with [Apache Superset](https://github.com/apache/superset) or [Evidence](https://github.com/evidence-dev/evidence).
 
-Self-hosted open-source portfolio management platform supporting multiple asset classes, broker-independent portfolio tracking, allocation analysis, ETF look-through, performance calculations, and programmable APIs. 
-GitHub
+---
 
-LibreFolio
+## 📈 Star History
 
-Open-source portfolio tracking and investment analytics platform designed to consolidate investments into a unified dashboard with self-hosted deployment options. 
-Librefolio
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Portfolio-Monitoring-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Portfolio-Monitoring-Platform&type=date&legend=top-left)
 
-Portfolio
+---
 
-Self-hosted portfolio tracker using transaction-based accounting, supporting holdings, allocation, performance, benchmark comparisons, contribution analysis, rebalancing guidance, audit trails, and scheduled backups. 
-GitHub
+## 🤝 How to Contribute
 
-Serverless Investment Portfolio Management
+Contributions are highly appreciated! To contribute:
 
-Open-source portfolio monitoring architecture combining Beancount accounting, Datasette dashboards, Python automation, GitHub Actions, and serverless infrastructure for investment tracking and portfolio rebalancing. 
-GitHub
+1. 🍴 **Fork the repository**.
+2. 🌿 **Create a new branch** (`git checkout -b feature/add-platform-or-tool`).
+3. ✨ **Add your SaaS or open-source tool** following the existing formatting, star badge structure, and explicit pricing/limits criteria.
+4. 📝 **Commit your changes** with a clear commit message.
+5. 🚀 **Submit a Pull Request** with a concise description of the tool.
+6. ⭐ **Star this repository** if you find it helpful!
 
-Portfolio Performance
+---
 
-Popular open-source investment portfolio management application supporting securities tracking, asset allocation, performance measurement, return calculations, and portfolio analysis.
+## ⚖️ Disclaimer
 
-OpenBB Platform
-
-Open-source financial data and analytics platform that can be used to build custom portfolio monitoring, market research, valuation, risk, and investment analysis workflows.
-
-QuantConnect LEAN
-
-Open-source algorithmic trading and quantitative research engine that supports portfolio construction, historical analysis, market data processing, risk management, and investment strategy research.
-
-QSTrader
-
-Open-source Python quantitative trading and portfolio simulation framework useful for backtesting portfolio allocation and investment strategies.
-
-PyPortfolioOpt
-
-Open-source Python library for portfolio optimization, efficient-frontier analysis, asset allocation, and quantitative portfolio construction.
-
-Riskfolio-Lib
-
-Comprehensive open-source portfolio optimization and risk-analysis library supporting multiple optimization models, risk measures, and allocation methodologies.
-
-bt
-
-Open-source Python framework for flexible portfolio strategy backtesting and quantitative investment analysis.
-
-vectorbt
-
-Open-source quantitative analysis framework built around vectorized portfolio simulations, strategy testing, performance analytics, and market-data analysis.
-
-QuantStats
-
-Open-source portfolio performance analytics library that generates detailed performance and risk reports including returns, drawdowns, Sharpe ratios, and benchmark comparisons.
-
-PyFolio Reloaded
-
-Open-source portfolio and risk analytics toolkit providing tear sheets, return analysis, drawdown visualization, exposure analysis, and performance reporting.
-
-Backtrader
-
-Open-source Python framework for portfolio backtesting, strategy simulation, performance analysis, and investment research.
-
-Zipline Reloaded
-
-Open-source algorithmic trading and portfolio backtesting framework suitable for quantitative portfolio research and performance analysis.
-
-Beancount
-
-Open-source double-entry accounting system using plain-text ledgers, useful for transparent investment accounting, NAV tracking, transaction history, and portfolio records.
-
-Fava
-
-Open-source web interface for Beancount that provides interactive reporting, charts, account analysis, and financial dashboards.
-
-Ledger
-
-Mature open-source command-line double-entry accounting system that can be adapted for investment transactions, capital accounts, NAV tracking, and fund-level financial records.
-
-hledger
-
-Open-source accounting platform with CLI, web, and spreadsheet-friendly workflows for tracking investment transactions, capital accounts, fund expenses, and financial performance.
-
-GnuCash
-
-Open-source accounting and financial management application supporting investments, accounts, transactions, reporting, and portfolio-related financial records.
-
-ERPNext
-
-Open-source ERP platform that can be customized for investment operations, portfolio company financial data collection, fund administration workflows, accounting, and reporting.
-
-Apache Superset
-
-Enterprise-grade open-source business intelligence platform suitable for building portfolio company KPI dashboards, investment performance analytics, and fund reporting systems.
-
-Metabase
-
-Open-source analytics and business intelligence platform useful for self-hosted portfolio dashboards, KPI monitoring, fund reporting, and investment analytics.
-
-Grafana
-
-Open-source observability and dashboard platform that can be adapted for real-time portfolio company KPIs, financial monitoring, investment performance, and operational dashboards.
-
-Evidence
-
-Open-source code-based analytics platform useful for generating portfolio reports and investment dashboards directly from structured data.
-
-Lightdash
-
-Open-source business intelligence platform that can provide governed portfolio analytics and self-hosted KPI dashboards.
-
-Datasette
-
-Open-source platform for publishing and exploring structured datasets, useful for lightweight investment, portfolio, and fund-data dashboards.
-
-DuckDB
-
-High-performance open-source analytical database suitable for portfolio data analysis, investment reporting, and financial-data pipelines.
-
-ClickHouse
-
-Open-source analytical database useful for high-volume portfolio, market, transaction, and time-series investment analytics.
-
-PostgreSQL
-
-Open-source relational database commonly used as the foundation for custom portfolio monitoring, fund administration, and investment reporting systems.
-
-Airbyte
-
-Open-source data integration platform that can help consolidate portfolio company data, CRM records, accounting systems, and external investment data into monitoring platforms.
-
-Apache Airflow
-
-Open-source workflow orchestration platform suitable for scheduled portfolio KPI collection, valuation workflows, financial-data processing, and automated reporting.
-
-Dagster
-
-Open-source data orchestration platform useful for building reliable portfolio monitoring and investment-data pipelines.
-
-Prefect
-
-Open-source workflow orchestration framework for automating investment data collection, portfolio reporting, valuation updates, and monitoring workflows.
-
-Additional Strong Open-Source Options
-
-Portfolio optimization: PyPortfolioOpt, Riskfolio-Lib, CVXPY, Pyomo, SciPy Optimize, and Google OR-Tools for allocation, optimization, risk, and investment decision modeling.
-
-Quantitative research and backtesting: QuantConnect LEAN, QSTrader, Backtrader, vectorbt, Zipline Reloaded, bt, and custom Python research pipelines.
-
-Portfolio performance analytics: QuantStats, PyFolio Reloaded, Portfolio Performance, and Fava-based reporting workflows.
-
-Investment accounting: Beancount, Fava, Ledger, hledger, and GnuCash for transparent transaction records, capital accounts, NAV calculations, and fund-level accounting foundations.
-
-Portfolio company KPI dashboards: Apache Superset, Metabase, Grafana, Lightdash, Evidence, and Datasette for self-hosted portfolio monitoring and reporting.
-
-Data infrastructure: PostgreSQL, DuckDB, ClickHouse, Apache Kafka, Apache Spark, and TimescaleDB for storing and analyzing portfolio and financial datasets.
-
-Fund and VC workflows: Open-source VC tool collections, cap-table tools, waterfall calculators, financial-modeling repositories, and private-market workflow components can be combined with dedicated reporting platforms. 
-GitHub
-+1
-
-Data integration and automation: Airbyte, Meltano, Apache Airflow, Dagster, Prefect, and dbt for collecting portfolio company data and automating reporting pipelines.
-
-Machine learning and forecasting: scikit-learn, XGBoost, LightGBM, StatsForecast, NeuralForecast, Darts, and PyMC for predictive portfolio analytics and scenario modeling.
-
-Many community projects for investment dashboards, net-worth tracking, venture capital analytics, startup KPI monitoring, private equity reporting, and portfolio performance visualization.
-
-Frameworks for building custom systems: Combine Hemrock Reporting or a custom PostgreSQL/DuckDB data layer with Airbyte for data collection, Apache Airflow, Dagster, or Prefect for automated KPI workflows, and Metabase, Apache Superset, or Grafana for portfolio dashboards. Add PyPortfolioOpt, Riskfolio-Lib, QuantStats, and OpenBB for investment analytics, while using Beancount + Fava or hledger for transparent accounting and transaction records. This modular approach can provide a powerful self-hosted alternative to portions of institutional platforms such as Juniper Square, Dynamo, Allvue, and Vestberry.
-
-How to Contribute
-
-Fork the repo.
-
-Add/edit entries in README.md (follow existing format).
-
-Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-Prefer actively maintained projects with clear licensing and documentation.
-
-Submit a PR with a short explanation.
-
-Star the repo if you find it useful!
-
-Disclaimer
-
-This is a community-curated list — not exhaustive and not an endorsement.
-
-Portfolio monitoring and investment analytics outputs should not be considered investment, legal, accounting, or tax advice.
-
-Private-market valuations and portfolio-company KPIs frequently depend on incomplete, delayed, or manager-provided data and require appropriate professional review.
-
-Self-hosted open-source systems require proper data governance, security, access controls, backup procedures, and validation of financial calculations.
-
-Not every open-source project listed here is a complete replacement for institutional platforms such as Juniper Square, Allvue, Dynamo Software, Backstop Solutions, or FIS Investran; many are foundational components that can be combined into a custom portfolio monitoring platform.
-
-Made for venture capital funds, private equity firms, asset managers, family offices, fund administrators, portfolio operations teams, and investment technology builders.
-Let's make portfolio monitoring more transparent, data-driven, customizable, and accessible through open-source tools and self-hosted investment infrastructure.
+* 📌 This repository is a community-curated list for educational and informational purposes — it is not exhaustive and does not constitute an explicit endorsement.
+* ⚖️ Portfolio monitoring and investment analytics outputs should not be considered investment, legal, accounting, or tax advice.
+* 🔍 Private-market valuations and portfolio-company KPIs frequently depend on manager-provided data and require appropriate professional review.
+* 🛡️ Self-hosted open-source systems require proper data governance, security, access controls, backup procedures, and validation of financial calculations.
